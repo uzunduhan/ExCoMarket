@@ -12,7 +12,8 @@ import Prices from './screens/Prices';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 const Tab = createBottomTabNavigator();
-  
+
+// İlk commit
 export default function App() {
   return (
     <SafeAreaProvider>
